@@ -4,4 +4,8 @@ numpy
 matplotlib
 gunicorn
 flask
+<<<<<<< HEAD
 seaborn
+=======
+seaborn
+>>>>>>> refs/remotes/origin/main
