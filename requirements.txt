@@ -3,5 +3,3 @@ pandas
 numpy
 matplotlib
 gunicorn
-flask
-seaborn
