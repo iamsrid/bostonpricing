@@ -3,9 +3,12 @@ pandas
 numpy
 matplotlib
 gunicorn
+<<<<<<< HEAD
 flask
 <<<<<<< HEAD
 seaborn
 =======
 seaborn
 >>>>>>> refs/remotes/origin/main
+=======
+>>>>>>> a4ebad8ce9e99e3d0367f798039fca0645715753
